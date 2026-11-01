@@ -2,6 +2,14 @@
 
 A minimal, movable group-loot roll interface for **World of Warcraft 3.3.5a (Wrath of the Lich King)**. Interface version: `30300`.
 
+## Download
+
+**[Download SleekRoll 1.0 — ready to install](https://github.com/baker42792-sketch/SleekRoll/releases/download/v1.0.0/SleekRoll-1.0.0.zip)**
+
+This ZIP extracts to **SleekRoll**, with no `-main` suffix. Copy that folder into `Interface/AddOns/`.
+
+Use the download above or the **SleekRoll-1.0.0.zip** asset on the [release page](https://github.com/baker42792-sketch/SleekRoll/releases/tag/v1.0.0).
+
 ## Features
 
 - Adjustable width (200–720), height (32–180), and scale (0.6–1.8).
@@ -20,7 +28,7 @@ A minimal, movable group-loot roll interface for **World of Warcraft 3.3.5a (Wra
 4. Enable **SleekRoll** in the character-selection AddOns menu.
 5. Enter `/sr` in-game to open the options window.
 
-When installing from a GitHub source download, rename the extracted addon folder to **SleekRoll**. Include its **Media** folder.
+GitHub's **Code → Download ZIP** and automatic **Source code** archives use a version or branch suffix. If you use one of those archives, rename **SleekRoll-main** (or **SleekRoll-1.0.0**) to **SleekRoll** before installing. Include its **Media** folder. The ready-to-install download above requires no renaming.
 
 ## Configuration
 
