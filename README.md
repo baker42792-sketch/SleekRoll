@@ -4,11 +4,24 @@ A minimal, movable group-loot roll interface for **World of Warcraft 3.3.5a (Wra
 
 ## Download
 
-**[Download SleekRoll 1.0 — ready to install](https://github.com/baker42792-sketch/SleekRoll/releases/download/v1.0.0/SleekRoll-1.0.0.zip)**
+### [⬇ Download SleekRoll 1.0 for WoW 3.3.5a](https://github.com/baker42792-sketch/SleekRoll/releases/download/v1.0.0/SleekRoll-1.0.0.zip)
 
-This ZIP extracts to **SleekRoll**, with no `-main` suffix. Copy that folder into `Interface/AddOns/`.
+**Use the link above to install the addon.** It contains only the addon files and Media folder, inside a correctly named **SleekRoll** folder. No renaming is needed.
 
-Use the download above or the **SleekRoll-1.0.0.zip** asset on the [release page](https://github.com/baker42792-sketch/SleekRoll/releases/tag/v1.0.0).
+> **Do not use Code → Download ZIP to install.** That is GitHub's source archive: it creates **SleekRoll-main** and includes README files. GitHub controls that folder name. Likewise, the automatic **Source code** links on the release page are not the install package.
+
+On the [release page](https://github.com/baker42792-sketch/SleekRoll/releases/tag/v1.0.0), choose the **SleekRoll-1.0.0.zip** asset.
+
+After extracting the install ZIP, copy its **SleekRoll** folder into `Interface/AddOns/`. The result must be:
+
+```text
+Interface/
+└── AddOns/
+    └── SleekRoll/
+        ├── SleekRoll.toc
+        ├── SleekRoll.lua
+        └── Media/
+```
 
 ## Features
 
