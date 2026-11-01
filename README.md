@@ -27,12 +27,10 @@ Adjust width, height, scale, growth direction, and position with `/sr`.
 ## Features
 
 - Use /sr in game to open control the panel 
-- Adjustable width (200–720), height (32–180), and scale (0.6–1.8).
+- Adjustable width, height, and scale.
 - Compact single-line layout for thinner windows.
 - Upward or downward stacking, with saved position and settings.
-- Original WoW dice, coin, disenchant, and pass icons.
-- Rarity-colored knotwork fading from 33% opacity on the left to transparent on the right.
-- Black backing sized to each item name for readability.
+- Rarity-colored background
 - Options window and a safe preview mode.
 
 ## Installation
