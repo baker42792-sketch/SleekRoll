@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: SleekRoll
+## Notes: Minimal, movable group loot rolls for Wrath 3.3.5a.
+## Author: Baker
+## Version: 1.0.0
+## SavedVariables: SleekRollDB
+SleekRoll.lua

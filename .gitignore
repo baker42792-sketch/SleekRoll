@@ -1,0 +1,11 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.bak
+*.tmp
+
+# Packaged releases are uploaded as GitHub release assets.
+*.zip
