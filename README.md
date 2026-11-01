@@ -12,17 +12,6 @@ A minimal, movable group-loot roll interface for **World of Warcraft 3.3.5a (Wra
 
 On the [release page](https://github.com/baker42792-sketch/SleekRoll/releases/tag/v1.0.0), choose the **SleekRoll-1.0.0.zip** asset.
 
-After extracting the install ZIP, copy its **SleekRoll** folder into `Interface/AddOns/`. The result must be:
-
-```text
-Interface/
-└── AddOns/
-    └── SleekRoll/
-        ├── SleekRoll.toc
-        ├── SleekRoll.lua
-        └── Media/
-```
-
 ## Features
 
 - Adjustable width (200–720), height (32–180), and scale (0.6–1.8).
