@@ -12,6 +12,20 @@ A minimal, movable group-loot roll interface for **World of Warcraft 3.3.5a (Wra
 
 On the [release page](https://github.com/baker42792-sketch/SleekRoll/releases/tag/v1.0.0), choose the **SleekRoll-1.0.0.zip** asset.
 
+## Preview
+
+### Loot roll windows
+
+Rarity-colored knotwork, original WoW roll icons, and a movable compact layout.
+
+![SleekRoll epic and rare loot roll windows](docs/images/sleekroll-preview.jpg)
+
+### Options window
+
+Adjust width, height, scale, growth direction, and position with `/sr`.
+
+![SleekRoll options window](docs/images/sleekroll-options.jpg)
+
 ## Features
 
 - Adjustable width (200–720), height (32–180), and scale (0.6–1.8).
